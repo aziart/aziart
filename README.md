@@ -7,18 +7,21 @@
 
 
 
-- 🔭 I’m constantly working on improving my skills in **Machine Learning**
+- 🔭 I’m constantly working on improving my skills in **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aziart](https://github.com/aziart):
+- 👨‍💻 Repos/Projects:
 
->  - [Python](https://github.com/aziart/udemy-python-fzth) - Python Programming  
->  - [Python pandas](https://github.com/aziart/python-pandas) - pandas notes from basics to working with dates and time series  
->  - [Reviews Scraper](https://github.com/aziart/proj-reviews-scraper) - flipkart.com items' reviews scraper project  
->  - [Images Scraper](https://github.com/aziart/proj-images-scraper) - Scrap images from google.com by keyword  
->  - [Oil Refineries](https://github.com/aziart/proj-oil-refineries) - Oil refineries optimization task  
->  - [Statistics](https://github.com/aziart/stats) - Statistics Notes (Private)  
->  - [DataTalks Machine Learning Notes](https://github.com/aziart/mlzoomcamp) - Machine Learning  
->  - [iNeuron FSDS](https://github.com/aziart/fsds) - Data Science  
+>  - [iNeuron FSDS](https://github.com/aziart/fsds) - Data Science (code/notes/web-apps)
+>  - [Motor Breakdown Prediction](https://github.com/aziart/motor-breakdown-prediction) - Production Motors Breakdown Prediction (code)
+>  - [Oil Refineries Optimization](https://github.com/aziart/proj-oil-refineries) - Oil refineries optimization task (code)  
+>  - [Product Reviews Scraper](https://github.com/aziart/proj-reviews-scraper) - flipkart.com items' reviews scraper project (web-app)  
+>  - [Images Scraper](https://github.com/aziart/proj-images-scraper) - Scrap images from google.com by keyword (web-app)  
+>  - [Python](https://github.com/aziart/udemy-python-fzth) - Python Programming (code)  
+>  - [Python pandas](https://github.com/aziart/python-pandas) - pandas notes from basics to working with dates and time series (code)  
+<!--
+>  - [Statistics](https://github.com/aziart/stats) - Statistics Notes (private)  
+>  - [DataTalks Machine Learning Notes](https://github.com/aziart/mlzoomcamp) - Machine Learning (private)  
+-->
 
 - 💬 Ask me about **Data Analytics**
 
