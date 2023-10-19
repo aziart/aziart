@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lecha</h1>
 <h3 align="center">A passionate data scientist from Kazakhstan</h3>
 
-<img align="right" alt="Coding" width="450" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
+<img align="right" alt="Coding" width="40%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
 
 
 
