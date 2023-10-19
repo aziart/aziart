@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **makhmudov.on@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/aziart/to-be-edited](https://github.com/aziart/to-be-edited)
+- 📄 Know about my experiences: [My CV](https://github.com/aziart/aziart/blob/main/LECHA%20MAKHMUDOV%20ic.pdf)
 
 <h3 align="left">Connect with me:</h3>
 
