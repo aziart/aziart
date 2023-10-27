@@ -3,12 +3,9 @@
 <h1 align="center">Hi 👋, I'm Lecha</h1>
 <h3 align="center">A passionate data scientist from Kazakhstan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aziart&label=Profile%20views&color=0e75b6&style=flat" alt="aziart" /> </p>
 
 
 <img align="right" alt="Coding" width="40%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
-
-
 
 - 🔭 I’m constantly working on improving my skills in **Data Science**
 
@@ -48,11 +45,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziart&" alt="aziart" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aziart&row=2&column=4&title=Commits,Experience,Repositories,Followers" alt="aziart" /></a> </p>
+<p align="left"> <a href="https://github.com/aziart/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aziart&theme=gitdimmed&row=2&column=4&title=Commits,Experience,Repositories,Followers" alt="aziart" /></a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziart\&hide=HTML,CSS,Procfile\&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziart\&hide=HTML,CSS,Procfile\&hide_progress=false)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=aziart\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&rank_icon=github)
+
 
 
 <!--
@@ -68,4 +65,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=aziart\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&rank_icon=github\&hide=contribs,issues,prs)
+
 -->
