@@ -45,7 +45,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziart&" alt="aziart" /></p>
 
-<p align="left"> <a href="https://github.com/aziart/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aziart&theme=gitdimmed&row=2&column=4&title=Commits,Experience,Repositories,Followers" alt="aziart" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=aziart&theme=gitdimmed&row=2&column=4&title=Commits,Experience,Repositories,Followers" alt="aziart" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziart\&hide=HTML,CSS,Procfile\&hide_progress=false)
 
@@ -69,5 +69,8 @@ Here are some ideas to get you started:
 gif   >> <img align="right" height="90" alt="Coding" width="450" src="https://datanatives.io/wp-content/uploads/2022/06/GtG_small_banner_2.gif">
 
 stats >> ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=aziart\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&rank_icon=github\&hide=contribs,issues,prs)
+
+<p align="left"> <a href="https://github.com/aziart/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aziart&theme=gitdimmed&row=2&column=4&title=Commits,Experience,Repositories,Followers" alt="aziart" /></a> </p>
+
 
 -->
